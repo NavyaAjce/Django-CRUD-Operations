@@ -1,0 +1,7 @@
+
+
+CRUD Operations using pymysql
+
+
+
+Created by Navya
